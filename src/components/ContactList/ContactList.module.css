@@ -1,0 +1,11 @@
+* {
+  margin: 0 auto;
+}
+.contactList {
+  display: block;
+  list-style: none;
+  padding: 20px;
+  width: 400px;
+  text-align: center;
+  border: 1px solid black;
+}
